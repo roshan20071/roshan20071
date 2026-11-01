@@ -64,6 +64,3 @@ I am actively seeking **Software Engineering** and **Applied AI/ML Internship** 
 
 📫 **Reach out:** [roshangatadi@gmail.com](mailto:roshangatadi@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/roshangatadi/) | [Portfolio](https://roshangatadi.vercel.app/)
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
